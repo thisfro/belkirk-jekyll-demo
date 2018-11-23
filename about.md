@@ -8,8 +8,12 @@ layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
-show_news: true
+show_staff: false
+show_news: false
+services:
+- heading: TEST
+  description: asdasdd
+  icon: "/uploads/2018/11/23/5e5f93a2-caae-4394-a2f6-15a3aa761c6c.jpg"
 menu:
   footer:
     identifier: _about
